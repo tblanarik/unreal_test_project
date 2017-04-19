@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TrevorProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"C:\Users\tblan\OneDrive\Documents\Unreal Projects\unreal_test_project\TrevorProject\Intermediate\Build\Win64\UE4Editor\Development\TrevorProject\PCH.TrevorProject.h.obj"
+"C:\Users\tblan\OneDrive\Documents\Unreal Projects\unreal_test_project\TrevorProject\Intermediate\Build\Win64\UE4Editor\Development\TrevorProject\TrevorProject.cpp.obj"
+"C:\Users\tblan\OneDrive\Documents\Unreal Projects\unreal_test_project\TrevorProject\Intermediate\Build\Win64\UE4Editor\Development\TrevorProject\TrevorProjectCharacter.cpp.obj"
+"C:\Users\tblan\OneDrive\Documents\Unreal Projects\unreal_test_project\TrevorProject\Intermediate\Build\Win64\UE4Editor\Development\TrevorProject\TrevorProjectGameMode.cpp.obj"
+"C:\Users\tblan\OneDrive\Documents\Unreal Projects\unreal_test_project\TrevorProject\Intermediate\Build\Win64\UE4Editor\Development\TrevorProject\TrevorProjectHUD.cpp.obj"
+"C:\Users\tblan\OneDrive\Documents\Unreal Projects\unreal_test_project\TrevorProject\Intermediate\Build\Win64\UE4Editor\Development\TrevorProject\TrevorProjectProjectile.cpp.obj"
+"C:\Users\tblan\OneDrive\Documents\Unreal Projects\unreal_test_project\TrevorProject\Intermediate\Build\Win64\UE4Editor\Development\TrevorProject\TrevorProject.generated.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\TrevorProject\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\tblan\OneDrive\Documents\Unreal Projects\unreal_test_project\TrevorProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TrevorProject.lib"

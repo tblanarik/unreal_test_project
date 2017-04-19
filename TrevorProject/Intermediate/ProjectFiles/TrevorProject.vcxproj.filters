@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\TrevorProject.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{3D867A9A-D182-4634-9866-1D6E5F3CAA99}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TrevorProject.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TrevorProjectEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{D3B151DF-0184-44F6-B5F8-DF7239E1D551}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\TrevorProject">
+			<UniqueIdentifier>{DEC0B6CA-BDB1-45A3-9FE6-E123EEC2A61C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TrevorProject\TrevorProject.Build.cs">
+			<Filter>Source\TrevorProject</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\TrevorProject\TrevorProject.cpp">
+			<Filter>Source\TrevorProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TrevorProject\TrevorProject.h">
+			<Filter>Source\TrevorProject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TrevorProject\TrevorProjectCharacter.cpp">
+			<Filter>Source\TrevorProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TrevorProject\TrevorProjectCharacter.h">
+			<Filter>Source\TrevorProject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TrevorProject\TrevorProjectGameMode.cpp">
+			<Filter>Source\TrevorProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TrevorProject\TrevorProjectGameMode.h">
+			<Filter>Source\TrevorProject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TrevorProject\TrevorProjectHUD.cpp">
+			<Filter>Source\TrevorProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TrevorProject\TrevorProjectHUD.h">
+			<Filter>Source\TrevorProject</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TrevorProject\TrevorProjectProjectile.cpp">
+			<Filter>Source\TrevorProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TrevorProject\TrevorProjectProjectile.h">
+			<Filter>Source\TrevorProject</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

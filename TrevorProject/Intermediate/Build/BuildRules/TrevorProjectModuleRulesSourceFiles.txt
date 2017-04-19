@@ -1,0 +1,3 @@
+C:\Users\tblan\OneDrive\Documents\Unreal Projects\unreal_test_project\TrevorProject\Source\TrevorProject\TrevorProject.Build.cs
+C:\Users\tblan\OneDrive\Documents\Unreal Projects\unreal_test_project\TrevorProject\Source\TrevorProject.Target.cs
+C:\Users\tblan\OneDrive\Documents\Unreal Projects\unreal_test_project\TrevorProject\Source\TrevorProjectEditor.Target.cs
