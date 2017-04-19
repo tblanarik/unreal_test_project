@@ -1,3 +1,7 @@
+# Debug files (we may reconsider these)
+*.pdb
+*.exp
+
 # Compiled Object files
 *.slo
 *.lo
